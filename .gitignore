@@ -2,7 +2,6 @@
 mods/*.jar
 *.jar
 config/
-!config/betterf3.toml
 crash-reports/
 logs/
 saves/
