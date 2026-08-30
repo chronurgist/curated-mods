@@ -19,13 +19,13 @@ Commit the resulting metadata. The public URL to `pack.toml` is the distribution
 Create a **Minecraft 1.21.1 NeoForge** instance first. After this repository is public, run the hosted installer with the public `pack.toml` URL:
 
 ```powershell
-irm https://raw.githubusercontent.com/OWNER/REPOSITORY/main/install.ps1 | iex
+irm https://raw.githubusercontent.com/chronurgist/curated-mods/main/install.ps1 | iex
 ```
 
-Until publishing replaces the placeholder in `install.ps1`, invoke it with an explicit URL:
+To configure an automatic update before each game launch:
 
 ```powershell
-.\install.ps1 -PackUrl https://raw.githubusercontent.com/OWNER/REPOSITORY/main/pack.toml -ConfigureAutoUpdate
+.\install.ps1 -ConfigureAutoUpdate
 ```
 
 The installer finds FreeSM/Prism instances, downloads the pinned Packwiz Installer, installs the declared mods, and optionally configures a pre-launch sync. `-ConfigureAutoUpdate` refuses to replace an existing launcher pre-launch command unless `-Force` is supplied.

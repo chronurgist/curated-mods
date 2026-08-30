@@ -1,7 +1,7 @@
 [CmdletBinding()]
 param(
     [string]$InstancePath,
-    [string]$PackUrl = 'REPLACE_WITH_PUBLIC_PACK_TOML_URL',
+    [string]$PackUrl = 'https://raw.githubusercontent.com/chronurgist/curated-mods/main/pack.toml',
     [switch]$ConfigureAutoUpdate,
     [switch]$Force
 )
@@ -69,10 +69,6 @@ function Get-Java {
         if (Test-Path -LiteralPath $candidate) { return $candidate }
     }
     throw 'Java was not found. Install a Java 21 runtime, then rerun this installer.'
-}
-
-if ($PackUrl -eq 'REPLACE_WITH_PUBLIC_PACK_TOML_URL') {
-    throw 'This installer has not been published yet. Supply -PackUrl with the public URL to pack.toml.'
 }
 
 if (-not $InstancePath) {
