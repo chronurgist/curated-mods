@@ -248,7 +248,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "d5b9c23df79ef871a70032567db2512904251347bdf13da80fbb8b00a846a79a"
+hash = "331f706a9411702c14439fceb50706666434697c321f80754ab9c6ee28189b55"
 metafile = true
 
 [[files]]
@@ -543,7 +543,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "9127392b5239785d4e090d5528cb728b3243d91148f54d0d990c329c1569e361"
+hash = "5cf8a6fd6f24737b762bca02b152d0289ba9a6082d5da6795e610f9b19af1bca"
 metafile = true
 
 [[files]]
