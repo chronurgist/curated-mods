@@ -5,8 +5,12 @@ file = "26.1-neoforge-compatibility.md"
 hash = "bc87d4bcca898a8e20c8f5570bd21895583d89a62257cefddc3fea21680cc262"
 
 [[files]]
+file = "AGENTS.md"
+hash = "89dc0a61b49df43d15b71b3b2d124e92d5b92a371c1402d261b4ae0254dc256a"
+
+[[files]]
 file = "README.md"
-hash = "41629bc086e06cf4b9339a036948c0eb59759f9842d06655238791c9399dd309"
+hash = "79918e09857bd8514c8afc395d8bb72ed31c1a42c25b704178d49c9aafe9ecc4"
 
 [[files]]
 file = "install.ps1"
@@ -178,6 +182,11 @@ hash = "6fd14a97896203dbb0588f23908fe6f43a09cc82eb6837cbb09d01c95a800b8f"
 metafile = true
 
 [[files]]
+file = "mods/compact-machines.pw.toml"
+hash = "dc42384932c78a1ee818af8d8535b51ebd836c6d1f13f3171d9bd83985565f04"
+metafile = true
+
+[[files]]
 file = "mods/compactmachinespor.pw.toml"
 hash = "546d69209deae41398b0eba3a58964c2668fe051913d125614631b93e79aacbf"
 metafile = true
@@ -254,17 +263,17 @@ metafile = true
 
 [[files]]
 file = "mods/emi-loot.pw.toml"
-hash = "519f011d36736129795025f19301ad2d6141f422857d6154a3df2e2019f416f3"
+hash = "70033da4bb315144b96fa1d10b8906603c0bb23790832c6ed6e67e5f4873d033"
 metafile = true
 
 [[files]]
 file = "mods/emi-ores.pw.toml"
-hash = "f2cbcb3d01017133313e1594cb89f052923592b7fa0c78eb9b6d09fb6e03bfb5"
+hash = "3c8defcd41715173aeb4721ff658071ec76a0e03ca33359ea2a4029326e64be9"
 metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "67bb77eae0b644960be3b1074178ceb5d54facbb42f326981b9d94625238a54a"
+hash = "e1c5c80dacbbb218af03ad9cd76b2430e0e85763b6a7c867ee500630c998ce8e"
 metafile = true
 
 [[files]]
@@ -333,6 +342,11 @@ hash = "67f7b4ff6681b028e1a95917cfba7ae9e41d5fc53359b84e88168a83800469f7"
 metafile = true
 
 [[files]]
+file = "mods/flux-networks.pw.toml"
+hash = "ad8209e472d463c9fcd19ca708fcd9c1a4a1bc69c9f0ca22efeacb414e9ab7a8"
+metafile = true
+
+[[files]]
 file = "mods/framedblocks.pw.toml"
 hash = "a8ca107f269cfb7cdc4412d16eb74689e319a6b2eddbe04e3eb567bbd8aee173"
 metafile = true
@@ -374,7 +388,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "f9c118b7a66238a7f9e052705e82402e57c7a5b753d62d679b94701ede479752"
+hash = "1aa70effe08b00be46d4461301e327ddfa635cb09a9cd79d802522ec979464ad"
 metafile = true
 
 [[files]]
@@ -445,6 +459,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "087a42c3f98511846c6445351aa5fd6dea009707df2275794bf166fda0cd1d51"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "e844a58a6bd0229686957e89fddd40ab74e0877cdddc4ba3dab692bf79a497b5"
 metafile = true
 
 [[files]]
