@@ -1,0 +1,10 @@
+# Packwiz source tracks metadata, never downloaded instance content
+mods/*.jar
+*.jar
+config/
+crash-reports/
+logs/
+saves/
+screenshots/
+shaderpacks/
+resourcepacks/
