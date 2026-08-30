@@ -106,7 +106,7 @@ if ($ConfigureAutoUpdate) {
         throw 'The instance already has a pre-launch command. Re-run with -Force only if you want Packwiz to replace it.'
     }
     $configText = [regex]::Replace($configText, '(?m)^PreLaunchCommand=.*\r?\n?', '')
-    $configText = $configText.Replace('OverrideCommands=false', "OverrideCommands=true`r`n$command")
+    $configText = [regex]::Replace($configText, '(?m)^OverrideCommands=(?:true|false)', "OverrideCommands=true`r`n$command")
     Set-Content -LiteralPath $config -Value $configText -NoNewline
     Write-Host 'Configured automatic Packwiz updates before every launch.'
 }
