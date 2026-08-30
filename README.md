@@ -1,35 +1,30 @@
 # curated-mods
 
-Curated Minecraft **1.21.1** / **NeoForge 21.1.249** modpack source, managed with [packwiz](https://packwiz.infra.link/).
+This repository contains a curated modpack for Minecraft 1.21.1 with NeoForge 21.1.249. The pack is managed with packwiz and contains 153 mods.
 
-## Publisher workflow
+## Install
 
-The Packwiz source is `pack.toml`, `index.toml`, and `mods/*.pw.toml`. Do not commit downloaded JARs, worlds, logs, or configs.
+Use Prism Launcher.
 
-After changing mod metadata, run:
-
-```powershell
-packwiz refresh
-```
-
-Commit the resulting metadata. The public URL to `pack.toml` is the distribution endpoint.
-
-## Player install (Windows: FreeSM or Prism)
-
-Create a **Minecraft 1.21.1 NeoForge** instance first. After this repository is public, run the hosted installer with the public `pack.toml` URL:
+1. Create an instance with Minecraft 1.21.1 and NeoForge 21.1.249.
+2. In PowerShell, run:
 
 ```powershell
 irm https://raw.githubusercontent.com/chronurgist/curated-mods/main/install.ps1 | iex
 ```
 
-To configure an automatic update before each game launch:
+To update the pack automatically before the game starts, run:
 
 ```powershell
 .\install.ps1 -ConfigureAutoUpdate
 ```
 
-The installer finds FreeSM/Prism instances, downloads the pinned Packwiz Installer, installs the declared mods, and optionally configures a pre-launch sync. `-ConfigureAutoUpdate` refuses to replace an existing launcher pre-launch command unless `-Force` is supplied.
+Add `-Force` if the instance already has a pre-launch command.
 
-## Status
+## What is included and why
 
-The source contains the requested curated mod list plus required dependencies. It intentionally excludes Refined Storage and the other mods named as exclusions in the original pack plan.
+* **Storage:** Applied Energistics 2 plus Extended AE, MEGA Cells, AdvancedAE, Import-Export Card, Network Analyser, and Wireless Terminals. This provides the full AE2 system. Refined Storage is not included. Functional Storage is included as a separate early-game storage option.
+* **Recipes:** EMI with EMI Loot and EMI Ores. EMI is used instead of JEI. The add-ons show loot tables and ore generation in the recipe viewer.
+* **Utility:** Waystones, Sophisticated Backpacks, Functional Storage, Pipez, Modular Routers, Inventory Sorter, Mouse Tweaks, Jade, Polymorph, and Applied Construction Sticks. These reduce common inventory and movement tasks.
+* **World:** YUNG's Better Dungeons, Mineshafts, Strongholds, and related mods, plus Dungeon Crawl and L_Ender's Cataclysm. These add structures to explore.
+* **Performance:** Sodium, Sodium Extra, Iris, ImmediatelyFast, FerriteCore, ServerCore, and FastSuite. These reduce rendering and tick time.
