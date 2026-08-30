@@ -247,6 +247,11 @@ hash = "bf2bb233ff465269e49a694e46c05ae8e2bfb02b785317189b4128c417e91fab"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "d5b9c23df79ef871a70032567db2512904251347bdf13da80fbb8b00a846a79a"
+metafile = true
+
+[[files]]
 file = "mods/dungeoncrawl.pw.toml"
 hash = "35b5626eca7f5d46b384139c99cf41d1f07f23bf24183143fb45b848ca4a445e"
 metafile = true
@@ -534,6 +539,11 @@ metafile = true
 [[files]]
 file = "mods/mega-cells.pw.toml"
 hash = "fd74a56d5617fdac3a3f4d1d3d426867641334f567456be10f63dac8a03d3b54"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "9127392b5239785d4e090d5528cb728b3243d91148f54d0d990c329c1569e361"
 metafile = true
 
 [[files]]
