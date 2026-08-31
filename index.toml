@@ -482,6 +482,11 @@ hash = "b65ed03b4b5f5da484d74499b32616ae2c9e2f9515a37dee00f1caa7cbf716c5"
 metafile = true
 
 [[files]]
+file = "mods/just-dire-things.pw.toml"
+hash = "fd6d935a0145a7992c3ba365c66f655c65587c9c812db55adab264144e11ce3f"
+metafile = true
+
+[[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
 hash = "df0b746b01a97b17513e1f313c6defa2bafdc1b3fcfdc2da3136206e96fe2870"
 metafile = true
