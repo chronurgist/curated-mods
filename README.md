@@ -1,6 +1,6 @@
 # curated-mods
 
-This repository contains a curated modpack for Minecraft 1.21.1 with NeoForge 21.1.249. The pack is managed with packwiz and contains 153 mods.
+This repository contains a curated modpack for Minecraft 1.21.1 with NeoForge 21.1.249. The pack is managed with packwiz and contains 154 mods.
 
 ## Install
 
@@ -23,7 +23,7 @@ Add `-Force` if the instance already has a pre-launch command.
 
 ## What is included and why
 
-* **Storage:** Applied Energistics 2 plus Extended AE, MEGA Cells, AdvancedAE, Import-Export Card, Network Analyser, and Wireless Terminals. This provides the full AE2 system. Refined Storage is not included. Functional Storage is included as a separate early-game storage option.
+* **Storage:** Applied Energistics 2 plus Extended AE, MEGA Cells, AdvancedAE, Import-Export Card, Network Analyser, Wireless Terminals, and Ars Énergistique integration with Ars Nouveau. This provides the full AE2 system. Refined Storage is not included. Functional Storage is included as a separate early-game storage option.
 * **Recipes:** EMI with EMI Loot and EMI Ores. EMI is used instead of JEI. The add-ons show loot tables and ore generation in the recipe viewer.
 * **Utility:** Waystones, Sophisticated Backpacks, Functional Storage, Pipez, Modular Routers, Inventory Sorter, Mouse Tweaks, Jade, Polymorph, and Applied Construction Sticks. These reduce common inventory and movement tasks.
 * **World:** YUNG's Better Dungeons, Mineshafts, Strongholds, and related mods, plus Dungeon Crawl and L_Ender's Cataclysm. These add structures to explore.

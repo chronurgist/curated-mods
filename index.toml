@@ -6,11 +6,11 @@ hash = "bc87d4bcca898a8e20c8f5570bd21895583d89a62257cefddc3fea21680cc262"
 
 [[files]]
 file = "AGENTS.md"
-hash = "89dc0a61b49df43d15b71b3b2d124e92d5b92a371c1402d261b4ae0254dc256a"
+hash = "1854379ec9e02fe144f0dfeb1e19b5abaeb16459f301097ad27e66a8bdad2aa2"
 
 [[files]]
 file = "README.md"
-hash = "79918e09857bd8514c8afc395d8bb72ed31c1a42c25b704178d49c9aafe9ecc4"
+hash = "b772ebd57d88602bb91b454d96ecadbd87a03f442a95bbe27233a82fbc958cda"
 
 [[files]]
 file = "install.ps1"
