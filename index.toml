@@ -47,6 +47,11 @@ hash = "eab9c96b5ee5db1e21abb12aef2494be1b5970e7687902a3de12aa97f7cb747b"
 metafile = true
 
 [[files]]
+file = "mods/allthecompressed.pw.toml"
+hash = "712bb680e8d2777df81218586fa0725b8a90b4b1e2d1d2b1547cc91b21773638"
+metafile = true
+
+[[files]]
 file = "mods/allthemodium.pw.toml"
 hash = "b6c9cde798643c7214e4c2de01116f08fae4985a7cd418dc91d8cd2aa4f81f73"
 metafile = true
