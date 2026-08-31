@@ -1,10 +1,7 @@
-# Packwiz source tracks metadata, never downloaded instance content
-mods/*.jar
-*.jar
-config/
-crash-reports/
-logs/
-saves/
-screenshots/
-shaderpacks/
-resourcepacks/
+# Track only the packwiz metadata needed to reproduce the mod setup.
+*
+!.gitignore
+!pack.toml
+!index.toml
+!mods/
+!mods/*.pw.toml
