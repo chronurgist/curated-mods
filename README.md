@@ -25,6 +25,6 @@ Add `-Force` if the instance already has a pre-launch command.
 
 * **Storage:** Applied Energistics 2 plus Extended AE, MEGA Cells, AdvancedAE, Import-Export Card, Network Analyser, Wireless Terminals, and Ars Énergistique integration with Ars Nouveau. This provides the full AE2 system. Refined Storage is not included. Functional Storage is included as a separate early-game storage option.
 * **Recipes:** EMI with EMI Loot and EMI Ores. EMI is used instead of JEI. The add-ons show loot tables and ore generation in the recipe viewer.
-* **Utility:** Waystones, Sophisticated Backpacks, Functional Storage, Pipez, Modular Routers, Inventory Sorter, Mouse Tweaks, Jade, Polymorph, Applied Construction Sticks, and Just Dire Things. These reduce common inventory and movement tasks.
+* **Utility:** Waystones, Sophisticated Backpacks, Functional Storage, Pipez, Super Factory Manager, Inventory Sorter, Mouse Tweaks, Jade, Polymorph, Applied Construction Sticks, and Just Dire Things. These reduce common inventory and movement tasks.
 * **World:** YUNG's Better Dungeons, Mineshafts, Strongholds, and related mods, plus Dungeon Crawl, L_Ender's Cataclysm, and GeOre. These add structures and geodes to explore.
 * **Performance:** Sodium, Sodium Extra, Iris, ImmediatelyFast, FerriteCore, ServerCore, and FastSuite. These reduce rendering and tick time.

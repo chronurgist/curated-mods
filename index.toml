@@ -6,11 +6,11 @@ hash = "bc87d4bcca898a8e20c8f5570bd21895583d89a62257cefddc3fea21680cc262"
 
 [[files]]
 file = "AGENTS.md"
-hash = "c6ef134bf81f0c427d0f904c75075370e5dec0d7e6afd658d16feef99e77ce3d"
+hash = "a90f3c468008bdbbe259390e756a8f3388f8d8aac8667696c496f045ccd5d7b3"
 
 [[files]]
 file = "README.md"
-hash = "abfce831540627c1532185f1a15021fad7bb4efb47d3d33cb1eaf5d9affcd330"
+hash = "84d41f135ff5c71025777c92cfd57543e37d2140c70073ea0bcfa6fe467e161d"
 
 [[files]]
 file = "install.ps1"
@@ -567,11 +567,6 @@ hash = "5cf8a6fd6f24737b762bca02b152d0289ba9a6082d5da6795e610f9b19af1bca"
 metafile = true
 
 [[files]]
-file = "mods/modular-routers.pw.toml"
-hash = "fb42e1dc1df7994f1d858609db76e4d4e2f0f778ed7a42a92e376893c54083d5"
-metafile = true
-
-[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "46b1cd6b625ceebd363d67bae16220cf81ae2f54914edcc0309e79fae2bb4cd4"
 metafile = true
@@ -719,6 +714,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "96762cd1dfbe4bf1c93cfd88c756f532eaeeb489ea4940463fac16e7c3f6d3fd"
+metafile = true
+
+[[files]]
+file = "mods/super-factory-manager.pw.toml"
+hash = "57ba1c005b8e1de78cc7193ead02e8a6feceff0b19de6c0d8b7982e6e9cc8436"
 metafile = true
 
 [[files]]
