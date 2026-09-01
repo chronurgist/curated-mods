@@ -859,20 +859,20 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations-extensions.pw.toml"
-hash = "633345333ff363fd71d17faa2bb39be6c3b1041bb1c5fdcc616827d2221c152f"
+hash = "a609bfde1f92ebb5c5462a9a7aa0464888b5bdb271392c81787ff3e27239ce4a"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "da66421a2a0dcab59fc4b17705b0aae4cd88b20634ebea20b0224fee2bef8251"
+hash = "6a1556a0e4fcb411b33efafc3382b4abd9a6e671f140dc0d42e9aad2808e24f3"
 metafile = true
 
 [[files]]
-file = "resourcepacks/fresh-compats-emf.pw.toml"
-hash = "99c7fb6556e7c3678b8b8fd90a3500ace424d33ed85f00c0eb628004c526bf5d"
+file = "resourcepacks/fresh-compats.pw.toml"
+hash = "177f1c99727cc979bca59e570feb006e45a09b70abf381257fe5591d1e818993"
 metafile = true
 
 [[files]]
-file = "resourcepacks/fresh-moves.pw.toml"
-hash = "d22bff8a4ecb807d779784716ad315466778d0457b0d734eeeb6ff7f5a296a3f"
+file = "resourcepacks/tras-fresh-player.pw.toml"
+hash = "32fe0fe8941110f8fba07ce7768faa1797de6b28e961ab65b483c380fc0a365a"
 metafile = true
