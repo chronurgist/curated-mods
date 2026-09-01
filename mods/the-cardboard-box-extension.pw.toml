@@ -3,11 +3,6 @@ filename = "The Cardboard Box Mod-1.21.1-NEO-1.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "7be3a302ae1b4b4727e71ad200a411943d6cea28"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 6193014
-project-id = 784789
+url = "https://www.curseforge.com/api/v1/mods/784789/files/6193014/download"
+hash-format = "sha512"
+hash = "6850309a0c7f1ffab3b1538b655dce358544a331b47fdd4a2a98fd57328e8da0d6757322ceea88d2459c26abe440a5f3a2f395affe1fbb08aabe5aa682024ee3"
