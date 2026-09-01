@@ -1,7 +1,10 @@
 # Track only the packwiz metadata needed to reproduce the mod setup.
 *
 !.gitignore
+!.packwizignore
 !pack.toml
 !index.toml
 !mods/
 !mods/*.pw.toml
+!resourcepacks/
+!resourcepacks/*.pw.toml

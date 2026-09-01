@@ -1,0 +1,6 @@
+# Local-only development files
+/TODO.md
+/config/
+/list-nondependency-mods.py
+/showcase.html
+/take-screenshot.sh

@@ -1,6 +1,6 @@
 # curated-mods
 
-This repository contains a curated modpack for Minecraft 1.21.1 with NeoForge 21.1.249. The pack is managed with packwiz and contains 162 mods (130 user-facing mods plus 32 support libraries).
+This repository contains a curated modpack for Minecraft 1.21.1 with NeoForge 21.1.249. The pack is managed with packwiz and contains 169 mods (134 user-facing mods plus 35 support libraries).
 
 ## Install
 
@@ -61,6 +61,10 @@ Add `-Force` if the instance already has a pre-launch command.
 - **Apothic Enchanting** — Expanded enchanting mechanics.
 - **Apothic Spawners** — Improved and customizable spawners.
 - **Artifacts** — Equipable utility and combat trinkets.
+- **Relics** — Upgradeable utility and combat trinkets.
+- **Reliquified Artifacts** — Integrates Artifacts trinkets with Relics progression.
+- **Reliquified Ars Nouveau** — Integrates Ars Nouveau content with Relics progression.
+- **Reliquified L_Ender’s Cataclysm** — Integrates Cataclysm content with Relics progression.
 - **Colorful Hearts** — Clearer health and damage display.
 - **Hostile Neural Networks** — Automated mob-resource simulation.
 - **Farmer’s Delight** — Expanded cooking and food progression.
@@ -191,8 +195,18 @@ Add `-Force` if the instance already has a pre-launch command.
 </details>
 
 <details>
+<summary>Resource packs</summary>
+
+- **Fresh Animations** — Animated entity models and textures.
+- **Fresh Animations: Extensions** — Additional Fresh Animations entity extensions.
+- **Fresh Compats (EMF pack)** — Compatibility fixes for Fresh Animations and modded entities.
+- **Fresh Moves** — Animated player movement.
+
+</details>
+
+<details>
 <summary>Dependency and support libraries</summary>
 
-These libraries support other mods and generally do not add major standalone features: Architectury API, Balm, Bookshelf, Cloth Config API, Cucumber Library, Curios API, FTB Library, FTB Teams, Fzzy Config, GeckoLib, Glodium, GuideME, Iceberg, Konkrete, Kotlin for Forge, libIPN, Lionfish-API, Moonlight Lib, Patchouli, Placebo, PolyLib, Prickle, Prism, Resourceful Lib, Searchables, Sophisticated Core, SuperMartijn642's Config Lib, SuperMartijn642's Core Lib, Titanium, YUNG's API, and Zeta.
+These libraries support other mods and generally do not add major standalone features: Architectury API, Balm, Bookshelf, Cloth Config API, Cucumber Library, Curios API, Entity Model Features, Entity Texture Features, FTB Library, FTB Teams, Fzzy Config, GeckoLib, Glodium, GuideME, Iceberg, Konkrete, Kotlin for Forge, libIPN, Lionfish-API, Moonlight Lib, Patchouli, Placebo, PolyLib, Prickle, Prism, Resourceful Lib, Searchables, Sophisticated Core, SuperMartijn642's Config Lib, SuperMartijn642's Core Lib, Titanium, YUNG's API, and Zeta.
 
 </details>
