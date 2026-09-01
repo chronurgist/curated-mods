@@ -743,6 +743,11 @@ hash = "52fbef7b11085da061f9fbc6bf1a303878df1d2b0e56b4ea88d16ea43f55b05e"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "2d45e747634f18813476b01a13507fa99e01e330334f11c3ed8b6a074faf3b5f"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "96762cd1dfbe4bf1c93cfd88c756f532eaeeb489ea4940463fac16e7c3f6d3fd"
 metafile = true
@@ -765,6 +770,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "e8246177aed2abaa5bc2df050bdeaa7ffa1904a94cccce59807ba2d186b631f7"
+metafile = true
+
+[[files]]
+file = "mods/the-cardboard-box-extension.pw.toml"
+hash = "16fc6600d06c6c2bfbad248d03a87fffd251feeb03b37806c7943486e45ef449"
 metafile = true
 
 [[files]]
