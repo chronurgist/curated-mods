@@ -6,7 +6,7 @@ hash = "df75465f10e40b18edcb132428d5d0387301c28a7f0f424d9143228d29206820"
 
 [[files]]
 file = "README.md"
-hash = "07b282107bc542e7bd87fb95c2081004d889bf0d5f0f2f8d0f9be5920b80b8c4"
+hash = "0b007d952d7f2eab32ef8bdae7fb560542439828523100afdeeed35017eb3a7d"
 
 [[files]]
 file = "install.ps1"
@@ -680,11 +680,6 @@ metafile = true
 [[files]]
 file = "mods/reliquified-artifacts.pw.toml"
 hash = "9d237ba6802b662f712d357e47f8291e6b3a67ec505a5133be678b825eda96ca"
-metafile = true
-
-[[files]]
-file = "mods/reliquified-l-ender-s-cataclysm.pw.toml"
-hash = "0a11dfdd0fbfcdd535bc610fb2d9b9694eb13c40b757c4a686228d2b7da6fb5e"
 metafile = true
 
 [[files]]
