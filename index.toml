@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "AGENTS.md"
-hash = "df75465f10e40b18edcb132428d5d0387301c28a7f0f424d9143228d29206820"
+hash = "4d0266e12b26850e42cd2c69ba867d78c52f138071ffae43c7e679358c140458"
 
 [[files]]
 file = "README.md"
-hash = "0b007d952d7f2eab32ef8bdae7fb560542439828523100afdeeed35017eb3a7d"
+hash = "bd55299234a9646c6139a1aa4f114f86c4fcde96a86244cadf67d127b80c4f76"
 
 [[files]]
 file = "install.ps1"
@@ -550,6 +550,11 @@ metafile = true
 [[files]]
 file = "mods/lionfish-api.pw.toml"
 hash = "60f2859256c4fd136c71f3a5f52f3da67b5a0986bba23613b2ff5d86489da6b6"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "51e129832b04acd57da470fc41725bad5e101b6a6b1d4901fd8ea7a92b14e13d"
 metafile = true
 
 [[files]]

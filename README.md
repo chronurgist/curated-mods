@@ -1,6 +1,6 @@
 # curated-mods
 
-This repository contains a curated modpack for Minecraft 1.21.1 with NeoForge 21.1.249. The pack is managed with packwiz and contains 168 mods (133 user-facing mods plus 35 support libraries).
+This repository contains a curated modpack for Minecraft 1.21.1 with NeoForge 21.1.249. The pack is managed with packwiz and contains 169 mods (134 user-facing mods plus 35 support libraries).
 
 ## Install
 
@@ -181,6 +181,7 @@ Add `-Force` if the instance already has a pre-launch command.
 - **Distant Horizons** — Extends distant terrain rendering.
 - **FerriteCore** — Reduces memory usage.
 - **ModernFix** — General performance, memory, and loading improvements.
+- **Lithium** — Improves game logic and server performance.
 - **ServerCore** — Server tick and entity performance improvements.
 - **FastFurnace** — Optimizes furnace processing.
 - **FastWorkbench** — Optimizes crafting-table calculations.
